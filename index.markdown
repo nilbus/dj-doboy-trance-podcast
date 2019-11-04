@@ -1,6 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
+
+Doboy Mix
+---------
+
+[Podcast URL](doboy-mix.xml)
+
+Select mixes by DJ Joboy
+
+ - _Trancequility_, volumes 1–13
+ - _Vocal Edition_, volumes 1–28
