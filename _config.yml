@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Podcast: Doboy Mix"
+title: "Nilbus Podcasts"
 email: nilbus@nilbus.com
 description: >-
-  Select mixes released by DJ Doboy.
-baseurl: "/podcast-doboy-mix/" # the subpath of your site, e.g. /blog
+  Select mixes released by DJ Doboy and Sound Territory.
+baseurl: "/podcasts/" # the subpath of your site, e.g. /blog
 url: "https://nilbus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nilbus
 github_username:  nilbus
@@ -32,17 +32,17 @@ theme: minima
 plugins:
   - jekyll-feed
 
-podcast_url: https://nilbus.github.io/podcast-doboy-mix/
+podcast_url: https://nilbus.github.io/podcasts/doboy-mix.xml
 podcast_album_art: http://2.bp.blogspot.com/_-wvCpXz4oAs/TU7T0iRLtCI/AAAAAAAAB68/Yy3HYn3FiPk/s400/18.jpg
 podcast_title: Doboy Mix
 podcast_owner: Edward Anderson
 podcast_email: nilbus@nilbus.com
 podcast_category: Music
 podcast_explicit: "no"
-podcast_author: Edward Anderson
-podcast_description: Select mixes released by DJ Doboy.
-podcast_summary: Select mixes released by DJ Doboy.
-podcast_subtitle: Select mixes released by DJ Doboy.
+podcast_author: DJ Doboy
+podcast_description: Select mixes released by DJ Doboy
+podcast_summary: Select mixes released by DJ Doboy
+podcast_subtitle: ''
 
 # Exclude from processing.
 # The following items will not be processed, by default.
