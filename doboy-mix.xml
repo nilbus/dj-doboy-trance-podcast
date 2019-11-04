@@ -1,4 +1,4 @@
 ---
 layout: null
 ---
-{% include podcast.xml title="Doboy Mix" filename="doboy-mix" author="DJ Doboy" description="Select mixes released by DJ Doboy" album_art="http://2.bp.blogspot.com/_-wvCpXz4oAs/TU7T0iRLtCI/AAAAAAAAB68/Yy3HYn3FiPk/s400/18.jpg" %}
+{% include podcast.xml category="doboy" title="Doboy Mix" filename="doboy-mix" author="DJ Doboy" description="Select mixes released by DJ Doboy" album_art="http://2.bp.blogspot.com/_-wvCpXz4oAs/TU7T0iRLtCI/AAAAAAAAB68/Yy3HYn3FiPk/s400/18.jpg" %}
