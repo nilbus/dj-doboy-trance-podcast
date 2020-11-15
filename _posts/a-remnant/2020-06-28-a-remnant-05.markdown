@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chapter Four - The Great and Abominable HD"
+title:  "Chapter 4 - The Great and Abominable HD"
 date:   2020-11-14-21:49:01 -0500
 podcast_duration: "00:23:42.13"
 categories: a-remnant

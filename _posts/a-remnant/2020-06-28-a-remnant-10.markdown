@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chapter Nine - The Origins and Missions of the Lost Ten Tribes"
+title:  "Chapter 9 - The Origins and Missions of the Lost Ten Tribes"
 date:   2020-11-14-21:49:01 -0500
 podcast_duration: "00:23:04.07"
 categories: a-remnant

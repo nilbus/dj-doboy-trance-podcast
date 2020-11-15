@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chapter Eight - Isaiah the Man"
+title:  "Chapter 8 - Isaiah the Man"
 date:   2020-11-14-21:49:01 -0500
 podcast_duration: "00:11:16.08"
 categories: a-remnant
