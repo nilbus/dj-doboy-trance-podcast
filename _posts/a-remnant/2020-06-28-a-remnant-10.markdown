@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter Nine - The Origins and Missions of the Lost Ten Tribes"
+date:   2020-11-14-21:49:01 -0500
+podcast_duration: "00:23:04.07"
+categories: a-remnant
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/A+Remnant+Shall+Return/09+-+Chapter+Nine+-+The+Origins+and+Missions+of+the+Lost+Ten+Tribes.mp3
+---

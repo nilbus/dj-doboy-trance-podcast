@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 19 - 3 Nephi 22 & 23 copy"
+date:   2020-11-14-21:49:01 -0500
+podcast_duration: "00:09:48.07"
+categories: a-remnant
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/A+Remnant+Shall+Return/19+-+Chapter+19+-+3+Nephi+22+&+23+copy.mp3
+---

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 3 - The Stout Horn"
+date:   2020-11-14-21:49:01 -0500
+podcast_duration: "00:56:34.06"
+categories: a-remnant
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/A+Remnant+Shall+Return/03+-+Chapter+3+-+The+Stout+Horn.mp3
+---

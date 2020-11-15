@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 33 - The Canaanites"
+date:   2020-11-14-21:49:01 -0500
+podcast_duration: "01:04:52.09"
+categories: a-remnant
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/A+Remnant+Shall+Return/33+-+Chapter+33+-+The+Canaanites.mp3
+---

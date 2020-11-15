@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 16 - 3rd Nephi 15-17"
+date:   2020-11-14-21:49:01 -0500
+podcast_duration: "00:30:13.08"
+categories: a-remnant
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/A+Remnant+Shall+Return/16+-+Chapter+16+-+3rd+Nephi+15-17.mp3
+---

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 20 - Moroni"
+date:   2020-11-14-21:49:01 -0500
+podcast_duration: "00:12:32.01"
+categories: a-remnant
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/A+Remnant+Shall+Return/20+-+Chapter+20+-+Moroni.mp3
+---

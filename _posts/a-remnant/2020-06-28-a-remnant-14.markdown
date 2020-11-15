@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 13 - Powerful Latter-day Leadership"
+date:   2020-11-14-21:49:01 -0500
+podcast_duration: "00:24:38.06"
+categories: a-remnant
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/A+Remnant+Shall+Return/13+-+Chapter+13+-+Powerful+Latter-day+Leadership.mp3
+---

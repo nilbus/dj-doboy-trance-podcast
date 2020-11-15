@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter 18 - 3 Nephi Chapter 21"
+date:   2020-11-14-21:49:01 -0500
+podcast_duration: "00:27:25.17"
+categories: a-remnant
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/A+Remnant+Shall+Return/18+-+Chapter+18+-+3+Nephi+Chapter+21.mp3
+---

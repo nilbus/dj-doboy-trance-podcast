@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chapter Six - THe History of the House of Israel"
+date:   2020-11-14-21:49:01 -0500
+podcast_duration: "00:43:57.84"
+categories: a-remnant
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/A+Remnant+Shall+Return/06+-+Chapter+Six+-+THe+History+of+the+House+of+Israel.mp3
+---
