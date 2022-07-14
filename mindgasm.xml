@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{% include podcast.xml category="mindgasm" title="Mindgasm" filename="mindgasm" author="Mindgasm" description="" album_art="https://user-images.githubusercontent.com/64751/179073537-f8344f3f-b207-4f30-9e31-cfcf8768ccd3.jpeg" %}
