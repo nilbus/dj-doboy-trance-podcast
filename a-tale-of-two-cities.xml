@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{% include podcast.xml category="a-tale-of-two-cities" title="A Tale of Two Cities" filename="a-tale-of-two-cities" author="A Tale of Two Cities" description="" album_art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ-dbRlXHULg6w5OajwjtuZPtm17dE9Qo1ozVAUjeX1zUKHzARCNNPKFVsucp35k1nrI" %}
