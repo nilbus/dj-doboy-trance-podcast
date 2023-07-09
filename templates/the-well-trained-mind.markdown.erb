@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<% podcasts.each do |podcast, _audio_files| %>
+<%= podcast %>
+--------------------
+
+[Podcast URL](<%= podcast.parameterize %>.xml)
+
+<% end %>
