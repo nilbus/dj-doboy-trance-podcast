@@ -5,11 +5,10 @@
   # input: index
   dashed_podcast_name = podcast_name.parameterize
   padded_minute = "%02d" % index
-%>
----
+%>---
 layout: post
 title:  "<%= episode_name %>"
 date:   2023-07-09 06:<%= padded_minute %>:00 -0500
-categories: <%= dashed_podcast_name.parameterize %>
+categories: <%= dashed_podcast_name %>
 podcast_link: <%= url %>
 ---

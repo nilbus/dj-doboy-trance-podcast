@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "06 The Romani and the Dragon"

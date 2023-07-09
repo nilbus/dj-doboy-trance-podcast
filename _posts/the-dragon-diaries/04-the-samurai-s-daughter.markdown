@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "04 The Samurai's Daughter"

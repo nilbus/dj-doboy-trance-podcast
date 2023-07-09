@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "03 The Four Chinese Dragons"

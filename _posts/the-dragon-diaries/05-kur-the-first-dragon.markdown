@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "05 Kur The First Dragon"
