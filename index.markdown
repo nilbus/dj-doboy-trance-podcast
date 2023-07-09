@@ -5,14 +5,14 @@ layout: default
 Liquid Drum and Bass
 --------------------
 
-[Podcast URL](liquid-dnb.xml)
+[Podcast URL](podcast://nilbus.github.io/podcasts/liquid-dnb.xml)
 
 Liquid Drum and Bass mixes by Sound Territory
 
 Doboy Mix
 ---------
 
-[Podcast URL](doboy-mix.xml)
+[Podcast URL](podcast://nilbus.github.io/podcasts/doboy-mix.xml)
 
 Select mixes by DJ Joboy
 
