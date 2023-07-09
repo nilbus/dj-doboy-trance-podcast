@@ -45,7 +45,7 @@ podcasts.each do |podcast_name, audio_files|
   use_prefix = !audio_files.map(&:episode).all? { |ep| ep =~ /^[0-9]{2}/ }
 
   # copy & mod episode markdown template
-  audio_files.each.with_index do |audio_file, i|
+  audio_files.each.with_index(1) do |audio_file, i|
     template = File.read(File.join(template_dir, 'episode.markdown.erb'))
     erb = ERB.new(template)
     filled_template = erb.result_with_hash({
@@ -56,6 +56,7 @@ podcasts.each do |podcast_name, audio_files|
     })
     filename = "#{audio_file.episode.parameterize}.markdown"
     filename = ('%02d ' % i) + filename if use_prefix
+    filename = "0000-00-00-" + filename
     post_path = File.join(posts_dir, filename)
     File.write(post_path, filled_template)
   end
