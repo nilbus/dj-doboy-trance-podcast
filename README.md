@@ -21,6 +21,6 @@ This podcast / site is built with Jekyll and is published via GitHub pages short
 Testing changes locally
 -----------------------
 
-1. [Install Jekyll](https://jekyllrb.com/docs/installation/)
-2. Run `jekyll build`
+1. [Install Jekyll](https://jekyllrb.com/docs/installation/) by running `bundle install`
+2. Run `bundle exec jekyll build`
 3. Examine the resulting podcast XML file under `_site/`.
