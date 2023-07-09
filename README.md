@@ -13,10 +13,7 @@ Layout
 Publishing changes
 ------------------
 
-This podcast / site is built with Jekyll and is published via GitHub pages shortly after changes are pushed. See the [settings page](settings/) under GitHub Pages for status and configuration.
-
-- "Your site is ready to be published" (blue) = updates pending
-- "Your site is published" (green) = changes are live
+This podcast / site is built with Jekyll and is published via GitHub pages shortly after changes are pushed. See the [Actions page](actions/) under GitHub Pages to see build and publication status.
 
 Testing changes locally
 -----------------------
