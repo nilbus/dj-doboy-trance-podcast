@@ -20,7 +20,7 @@ s3_subdir = ARGV[0] || 'the-well-trained-mind'
 # the-well-trained-mind/The Dragon Diaries/07 Bida The Dragon Of Gold.mp3
 # the-well-trained-mind/The Dragon Diaries/08 The Dragon Mother.mp3
 paths = %x(aws s3 ls 's3://nilbus-podcasts/#{s3_subdir}' --recursive | awk '{for(i=4;i<=NF;i++) printf("%s%s", $i, (i<NF)?" ":"\\n")}').split("\n")
-paths.reject! { |path| path.end_with?('/') }
+paths.select! { |path| path.end_with?('.mp3') }
 raise "Couldn't list paths. Got:\n#{paths.join("\n")}" unless paths.many?
 audio_files = paths.map do |path|
   match_data = path.match(%r{^[^/]+/(?<podcast>[^/]+)/(?<episode>[^.]+)\..+$})
