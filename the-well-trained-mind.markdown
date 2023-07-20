@@ -21,3 +21,9 @@ The Dragon Diaries
 [Podcast URL](podcast://nilbus.github.io/podcasts/the-dragon-diaries.xml)
 
 
+The Story of the World Vol. 1 Ancient Times
+--------------------
+
+[Podcast URL](podcast://nilbus.github.io/podcasts/the-story-of-the-world-vol-1-ancient-times.xml)
+
+
