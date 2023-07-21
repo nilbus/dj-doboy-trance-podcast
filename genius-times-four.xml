@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{% include podcast.xml category="genius-times-four" title="Genius Times Four" filename="genius-times-four" author="Genius Times Four" description="" album_art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ-dbRlXHULg6w5OajwjtuZPtm17dE9Qo1ozVAUjeX1zUKHzARCNNPKFVsucp35k1nrI" %}

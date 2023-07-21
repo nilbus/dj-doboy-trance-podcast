@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "39-sotw3-ch38"
+date:   2023-07-09 06:39:00 -0500
+categories: the-story-of-the-world-vol-3-early-modern-times
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/the-well-trained-mind/The%20Story%20of%20the%20World%20Vol.%203%20Early%20Modern%20Times/39-sotw3-ch38.mp3
+---

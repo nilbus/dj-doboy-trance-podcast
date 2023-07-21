@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{% include podcast.xml category="thomas-jefferson-s-america" title="Thomas Jefferson's America" filename="thomas-jefferson-s-america" author="Thomas Jefferson's America" description="" album_art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ-dbRlXHULg6w5OajwjtuZPtm17dE9Qo1ozVAUjeX1zUKHzARCNNPKFVsucp35k1nrI" %}

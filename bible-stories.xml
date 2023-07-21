@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{% include podcast.xml category="bible-stories" title="Bible Stories" filename="bible-stories" author="Bible Stories" description="" album_art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ-dbRlXHULg6w5OajwjtuZPtm17dE9Qo1ozVAUjeX1zUKHzARCNNPKFVsucp35k1nrI" %}

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "04 The House of Wisdom (809-1258)"
+date:   2023-07-09 06:04:00 -0500
+categories: swordsmen-saints-and-scholars
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/the-well-trained-mind/Swordsmen,%20Saints%20and%20Scholars/04%20The%20House%20of%20Wisdom%20(809-1258).mp3
+---

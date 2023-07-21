@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "04 Pecos Bill"
+date:   2023-07-09 06:04:00 -0500
+categories: american-tall-tales
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/the-well-trained-mind/American%20Tall%20Tales/04%20Pecos%20Bill.mp3
+---

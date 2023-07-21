@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{% include podcast.xml category="galileo-and-the-stargazers" title="Galileo and the Stargazers" filename="galileo-and-the-stargazers" author="Galileo and the Stargazers" description="" album_art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ-dbRlXHULg6w5OajwjtuZPtm17dE9Qo1ozVAUjeX1zUKHzARCNNPKFVsucp35k1nrI" %}

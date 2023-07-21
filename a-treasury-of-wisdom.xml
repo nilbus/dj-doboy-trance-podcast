@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{% include podcast.xml category="a-treasury-of-wisdom" title="A Treasury of Wisdom" filename="a-treasury-of-wisdom" author="A Treasury of Wisdom" description="" album_art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ-dbRlXHULg6w5OajwjtuZPtm17dE9Qo1ozVAUjeX1zUKHzARCNNPKFVsucp35k1nrI" %}

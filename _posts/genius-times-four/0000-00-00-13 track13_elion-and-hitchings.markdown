@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Track13_Elion and Hitchings"
+date:   2023-07-09 06:13:00 -0500
+categories: genius-times-four
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/the-well-trained-mind/Genius%20Times%20Four/Track13_Elion%20and%20Hitchings.mp3
+---

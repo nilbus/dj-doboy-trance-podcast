@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{% include podcast.xml category="gone-west-bold-adventures-of-american-explorers-and-pioneers" title="Gone West! Bold Adventures of American Explorers and Pioneers" filename="gone-west-bold-adventures-of-american-explorers-and-pioneers" author="Gone West! Bold Adventures of American Explorers and Pioneers" description="" album_art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ-dbRlXHULg6w5OajwjtuZPtm17dE9Qo1ozVAUjeX1zUKHzARCNNPKFVsucp35k1nrI" %}

@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{% include podcast.xml category="king-arthur-and-his-knights-2nd-edition" title="King Arthur and His Knights, 2nd Edition" filename="king-arthur-and-his-knights-2nd-edition" author="King Arthur and His Knights, 2nd Edition" description="" album_art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ-dbRlXHULg6w5OajwjtuZPtm17dE9Qo1ozVAUjeX1zUKHzARCNNPKFVsucp35k1nrI" %}

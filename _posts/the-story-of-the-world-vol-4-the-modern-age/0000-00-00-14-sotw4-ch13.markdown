@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "14-sotw4-ch13"
+date:   2023-07-09 06:14:00 -0500
+categories: the-story-of-the-world-vol-4-the-modern-age
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/the-well-trained-mind/The%20Story%20of%20the%20World%20Vol.%204%20The%20Modern%20Age/14-sotw4-ch13.mp3
+---

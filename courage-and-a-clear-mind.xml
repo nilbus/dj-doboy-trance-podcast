@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{% include podcast.xml category="courage-and-a-clear-mind" title="Courage and a Clear Mind" filename="courage-and-a-clear-mind" author="Courage and a Clear Mind" description="" album_art="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ-dbRlXHULg6w5OajwjtuZPtm17dE9Qo1ozVAUjeX1zUKHzARCNNPKFVsucp35k1nrI" %}

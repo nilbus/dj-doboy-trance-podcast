@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "01 Stone Soup"
+date:   2023-07-09 06:01:00 -0500
+categories: fairytale-favorites-in-story-and-song
+podcast_link: https://nilbus-podcasts.s3.us-east-2.amazonaws.com/the-well-trained-mind/Fairytale%20Favorites%20in%20Story%20and%20Song/01%20Stone%20Soup.mp3
+---
