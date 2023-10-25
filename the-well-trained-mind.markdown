@@ -360,8 +360,11 @@ Thomas Jefferson's America
 Tuttle Twins - America's History
 --------------------
 
-[Podcast URL](podcast://nilbus.github.io/podcasts/tuttle-twins-america-s-history.xml)
-
+[Podcast URL](podcast://nilbus.github.io/podcasts/tuttle-twins-america-s-history.xml)  
+[Curriculum, Volume 1](https://nilbus-podcasts.s3.us-east-2.amazonaws.com/the-well-trained-mind/Tuttle+Twins+-+America's+History/Curriculum+-+Volume+1.pdf)  
+[Curriculum, Volume 2](https://nilbus-podcasts.s3.us-east-2.amazonaws.com/the-well-trained-mind/Tuttle+Twins+-+America's+History/Curriculum+-+Volume+2.pdf)  
+[Bonus Video 1](https://nilbus-podcasts.s3.us-east-2.amazonaws.com/the-well-trained-mind/Tuttle+Twins+-+America's+History/Videos+-+Volume+1.pdf)  
+[Bonus Video 2](https://nilbus-podcasts.s3.us-east-2.amazonaws.com/the-well-trained-mind/Tuttle+Twins+-+America's+History/Videos+-+Volume+2.pdf)
 
 Uncle Wiggily's Storybook
 --------------------
