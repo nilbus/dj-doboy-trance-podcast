@@ -357,6 +357,12 @@ Thomas Jefferson's America
 [Podcast URL](podcast://nilbus.github.io/podcasts/thomas-jefferson-s-america.xml)
 
 
+Tuttle Twins - America's History
+--------------------
+
+[Podcast URL](podcast://nilbus.github.io/podcasts/tuttle-twins-america-s-history.xml)
+
+
 Uncle Wiggily's Storybook
 --------------------
 
